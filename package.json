@@ -1,0 +1,23 @@
+{
+  "name": "social-media-dashboard",
+  "version": "1.0.0",
+  "description": "Aplicacion web responsive",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RLCHuncp"
+  },
+  "keywords": [
+    "Responsive",
+    "html",
+    "css3",
+    "javascript",
+    "grid",
+    "flexbox"
+  ],
+  "author": "@LucyCampos",
+  "license": "MIT"
+}
